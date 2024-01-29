@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alejandronpereyra.alejandronpereyra" />
+
 <h2 align="left">Hi 👋! My name is Alejandro and I'm a PHP Fullstack Developer, from the NetherRealm!</h2>
 
 ###
