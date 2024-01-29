@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an IT-Academy-BCN project <br>🌱 I’m currently learning Python<br>⚡ Fun fact
+🔭 I’m currently working on an IT-Academy-BCN project <br>🌱 I’m currently learning Python<br>
 
 
 ## 🌐 Socials:
