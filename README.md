@@ -12,3 +12,5 @@
 <br clear="both">
 
 ###
+
+![Snake animation](https://github.com/AlejandroNPereyra/AlejandroNPereyra/blob/output/github-contribution-grid-snake.svg)
