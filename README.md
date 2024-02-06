@@ -10,7 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an IT-Academy BCN project**
+ 🔭 I’m currently working on **[IT Academy - Profiles](https://github.com/IT-Academy-BCN/ita-profiles-backend)** a project to 
+> Increase the visibility of the academy //
+> Facilitate company recruitment //
+> Promote the employability of students
  
  🌱 I’m currently learning **React & Python**
 
