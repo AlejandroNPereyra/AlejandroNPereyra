@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **React & Python**
 
-⚡ Fun fact **I used to be a Chemist and also a Musician**
+⚡ Fun fact: **I used to be a Chemist and also a Musician**
 
  </div>
  
