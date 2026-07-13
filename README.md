@@ -15,7 +15,7 @@
 > Facilitate company recruitment //
 > Promote the employability of students
  
- 🌱 I’m currently learning **React & Python**
+ 🌱 I’m currently learning **Python**
 
 ⚡ Fun fact: **I used to be a Chemist and also a Musician**
 
